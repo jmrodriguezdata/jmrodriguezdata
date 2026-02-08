@@ -34,7 +34,7 @@ Trabajo con Python y R para construir modelos estadísticos, análisis reproduci
 ## 📌 Proyectos destacados
 
 - **Optimización de portafolios y simulación Monte Carlo**  
-  Proyecto end-to-end de optimización de portafolios en Python, implementando la MPT y evaluando riesgos y desempeños de portafolios óptimos
+  Proyecto end-to-end de optimización de portafolios en Python, implementando la MPT y evaluando riesgos y desempeño de portafolios óptimos
 
 - **Diagnóstico estadístico de series de tiempo financieras**  
   Estudio de retornos, volatilidad y dependencia temporal en mercados financieros con Python.
