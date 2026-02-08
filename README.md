@@ -22,13 +22,13 @@ Trabajo con Python y R para construir modelos estadísticos, análisis reproduci
 
 ## 🛠️ Stack técnico
 
-**Lenguajes:** Python, R, SQL  
-**Econometría y estadística:** statsmodels, scikit-learn, tidyverse  
-**Series de tiempo:** familia ARIMA, familia ARCH, LSTM 
-**Machine Learning y Deep Learning**: scikit-learn, keras, tensorflow, pytorch
-**Visualización:** matplotlib, seaborn, plotly, ggplot2, Power BI  
-**Herramientas:** Git, GitHub, Jupyter, RStudio, VS Code, LaTeX
-**Otros**: streamlit (python), shiny (R)
+- **Lenguajes:** Python, R, SQL  
+- **Econometría y estadística:** statsmodels, scikit-learn, tidyverse  
+- **Series de tiempo:** familia ARIMA, familia ARCH, LSTM 
+- **Machine Learning y Deep Learning**: scikit-learn, keras, tensorflow, pytorch
+- **Visualización:** matplotlib, seaborn, plotly, ggplot2, Power BI  
+- **Herramientas:** Git, GitHub, Jupyter, RStudio, VS Code, LaTeX
+- **Otros**: streamlit (python), shiny (R)
 
 
 ## 📌 Proyectos destacados
