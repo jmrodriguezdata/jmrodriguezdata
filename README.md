@@ -1,6 +1,6 @@
 # Juan Miguel Rodríguez Trujillo  
 
-**Profesional en Economía: Econometría · Finanzas Cuantitativas · Analítica de datos · Machine Learning · Deep Learning**
+**Economista · Econometría · Finanzas Cuantitativas · Analítica de datos · Machine Learning · Deep Learning**
 
 Análisis cuantitativo, económico y financiero basado en datos, modelos estadísticos y machine learning reproducible.
 
@@ -28,13 +28,13 @@ Trabajo con Python y R para construir modelos estadísticos, análisis reproduci
 - **Machine Learning y Deep Learning**: scikit-learn, keras, tensorflow, pytorch
 - **Visualización:** matplotlib, seaborn, plotly, ggplot2, Power BI  
 - **Herramientas:** Git, GitHub, Jupyter, RStudio, VS Code, LaTeX
-- **Otros**: streamlit (python), shiny (R)
+- **Otros**: streamlit (python), shiny (R), HTML
 
 
 ## 📌 Proyectos destacados
 
 - **Optimización de portafolios y simulación Monte Carlo**  
-  Proyecto end-to-end de optimización de portafolios en Python, implementando la MPT y evaluando riesgos y desempeño de portafolios óptimos
+  Proyecto end-to-end de optimización de portafolios en Python, implementando la MPT y evaluando riesgos y desempeño de portafolios óptimos.
 
 - **Diagnóstico estadístico de series de tiempo financieras**  
   Estudio de retornos, volatilidad y dependencia temporal en mercados financieros con Python.
@@ -45,6 +45,6 @@ Trabajo con Python y R para construir modelos estadísticos, análisis reproduci
 
 ## 🎓 Formación
 
-Profesional en Economía — Universidad Externado de Colombia  
-Énfasis en estadística aplicada, econometría y finanzas cuantitativas
+Profesional en Economía (2025), Universidad Externado de Colombia  
+Énfasis en métodos cuantitativos, estadística aplicada y econometría
 
