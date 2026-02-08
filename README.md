@@ -1,6 +1,6 @@
 # Juan Miguel Rodríguez Trujillo  
 
-**Economista · Ciencia de Datos · Econometría · Finanzas Cuantitativas**
+**Profesional en economía · Econometría · Finanzas Cuantitativas · Machine Learning · Deep Learning **
 
 Análisis cuantitativo, económico y financiero basado en datos, modelos estadísticos y machine learning reproducible.
 
