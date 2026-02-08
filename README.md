@@ -45,6 +45,6 @@ Trabajo con Python y R para construir modelos estadísticos, análisis reproduci
 
 ## 🎓 Formación
 
-Economista — Universidad Externado de Colombia  
+Profesional en Economía — Universidad Externado de Colombia  
 Énfasis en estadística aplicada, econometría y finanzas cuantitativas
 
